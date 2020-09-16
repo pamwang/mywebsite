@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap");
+.header {
+    float: right;
+    color: #A58D7f;
+    font-family: 'Heebo', sans-serif;
+}
+
+.header a {
+    padding-right: 50px;
+}
+
+h1 {
+    color: #F5B895;
+    font-family: 'Heebo', sans-serif;
+    text-align: left;
+    font-size: 50px;
+    opacity: 100% !important;
+}
+
+h2 {
+    color: #A58D7F;
+    font-family: 'Heebo', sans-serif;
+    text-align: justify;
+    font-size: 33px;
+    opacity: 100% !important;
+}
+
+p {
+    color: #A58D7F;
+    font-family: 'Heebo', sans-serif;
+    text-align: justify;
+    font-size: 19px;
+    opacity: 100% !important;
+}
+
+body {
+    margin-left: 20%;
+    margin-right: 30%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+
+#linkedin {
+    text-decoration: none;
+    color: #A58D7F;
+}
+
+#linkedin:hover {
+    color: #2867b2;
+    text-decoration: underline;
+}
+
+#github {
+    text-decoration: none;
+    color: #A58D7F;
+}
+
+#github:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+#resume {
+    text-decoration: none;
+    color: #A58D7F;
+}
+
+#resume:hover {
+    color: #857d8f;
+    text-decoration: underline;
+}
+
+#facebook {
+    text-decoration: none;
+    color: #A58D7F;
+}
+
+#facebook:hover {
+    text-decoration: underline;
+    color: #3b5998;
+}
