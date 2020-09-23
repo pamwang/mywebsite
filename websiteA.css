@@ -41,7 +41,7 @@ body {
 }
 
 #linkedin {
-    text-decoration: none;
+    text-decoration: underline;
     color: #A58D7F;
 }
 
@@ -51,7 +51,7 @@ body {
 }
 
 #github {
-    text-decoration: none;
+    text-decoration: underline;
     color: #A58D7F;
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 #resume {
-    text-decoration: none;
+    text-decoration: underline;
     color: #A58D7F;
 }
 
